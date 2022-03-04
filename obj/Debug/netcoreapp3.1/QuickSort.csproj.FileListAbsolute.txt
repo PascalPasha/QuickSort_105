@@ -1,0 +1,27 @@
+C:\Users\Acer\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\Acer\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\Acer\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\Acer\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Acer\source\repos\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Acer\source\repos\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\pahle\Documents\Asisten\Algoritma\Pragitya Faazha Muntasya_8921865_assignsubmission_file_\20200140063_AlgoAct2_B\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
